@@ -1,0 +1,11 @@
+// El programa muestra en pantalla un Hola Mundo
+// Autor: Cynthia Rozán
+// Última modificación: 15/04/2015
+
+#include <iostream>
+using std::cout;
+
+int main(){
+    cout << "Hola Mundo";
+    return(0);
+}
